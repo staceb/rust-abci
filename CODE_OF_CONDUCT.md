@@ -1,5 +1,5 @@
 # The Tendermint Code of Conduct
-This code of conduct applies to all projects run by the Tendermint/COSMOS team and hence to rust-abci.
+This code of conduct applies to all projects run by the Tendermint/COSMOS team and hence to rust-abci
 
 
 ----
